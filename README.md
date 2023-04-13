@@ -8,7 +8,7 @@
 ## 📚️ Blog
 * [Sunny Day](https://es39.notion.site/Sunny-Day-7a3ec7746e484194a001bf341046c37a, "Sunny Day")
 ## 🗒️ Portfolio
-* [Sunny Portfolio](https://es39.notion.site/Sunny-Day-7a3ec7746e484194a001bf341046c37a](https://es39.notion.site/f49e7de1ef934a3691182f06f5a0d4ed), "Sunny Portfolio")
+* [Sunny Portfolio](https://es39.notion.site/f49e7de1ef934a3691182f06f5a0d4ed, "Sunny Portfolio")
 <!--
 **es39/es39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
