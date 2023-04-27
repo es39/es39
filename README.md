@@ -9,6 +9,8 @@
 * https://es39.notion.site/Sunny-Day-7a3ec7746e484194a001bf341046c37a
 ## 🗒️ Portfolio
 * https://es39.notion.site/f49e7de1ef934a3691182f06f5a0d4ed
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fes39%2Fhit-counter&count_bg=%23A9A9A9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **es39/es39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
